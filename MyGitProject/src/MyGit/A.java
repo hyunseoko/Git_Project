@@ -5,5 +5,6 @@ public class A {
 		System.out.println("Hello, this is A.");
 		System.out.println("Hello, this is master.");
 		System.out.println("Hello, this is devB branch.");
+		System.out.println("Hello, this is devC branch.");
 	}
 }
